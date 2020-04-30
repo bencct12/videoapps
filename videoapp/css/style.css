@@ -1,13 +1,14 @@
+  
 #movies img, #movie img{
-  width: 100%;
+  width: 99%;
 }
 
 @media(min-width:960px){
   #movies .col-md-3 .well{
-    height: 390px;
+    height: 370px;
   }
 
   #movies .col-md-3 img{
-    height: 240px;
+    height: 2380px;
   }
 }
